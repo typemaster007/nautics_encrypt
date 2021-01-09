@@ -1,8 +1,8 @@
-# A program that allows a user to encrypt and decrypt a message
+## A program that allows a user to encrypt and decrypt a message
 ## Author : Amogh Adithya Bangalore
 
 ## Encrypt and decrypt a user message in Python
-### Language : Python 3.
+### Language : Python 3.8
 
 ### Library used : PyCrypto
 ### Encryption used : AES Encryption (CBC)
