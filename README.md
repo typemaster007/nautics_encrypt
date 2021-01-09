@@ -2,10 +2,10 @@
 Author : Amogh Adithya Bangalore
 
 
-### Language : Python 3.8
+#### Language : Python 3.8
 
-### Library used : PyCrypto
-### Encryption used : AES Encryption (CBC)
+#### Library used : PyCrypto
+#### Encryption used : AES Encryption (CBC)
 
 ### Steps to run program:
 1. Install PyCrypto using the command "pip install pyCrypto"
