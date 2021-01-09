@@ -1,5 +1,5 @@
 ## A program that allows a user to encrypt and decrypt a message
-Author : Amogh Adithya Bangalore
+#### Author : Amogh Adithya Bangalore
 
 
 #### Language : Python 3.8
